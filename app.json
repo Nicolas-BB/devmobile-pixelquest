@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "intrigued-red-sandwich",
-    "slug": "snack-e275376d-0362-4d3e-96c8-328eb47686b9",
+    "name": "pixelquest",
+    "slug": "snack-d22c7450-9853-4658-a70b-dd59c3620672",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "do avila"
   }
 }
